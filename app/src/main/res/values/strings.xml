@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCheckBoxDemo</string>
+    <string name="TileText"> "What do you need?" </string>
+    <string name="LinuxText"> "Linux" </string>
+    <string name="WindowsText"> "Windows" </string>
+    <string name="MacText"> "Mac" </string>
+    <string name="ButtonText"> "Show" </string>
+
+
+
+</resources>
